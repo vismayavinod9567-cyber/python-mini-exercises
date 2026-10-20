@@ -3,16 +3,20 @@ A collection of Python mini exercises covering basic programming concepts
 
 Concepts Practiced:
 
-- Variables and data types
+Variables and data types
 
-- Conditional statements (if, elif, else)
+Conditional statements
 
-- Loops (for, while)
+Loops
 
-- Strings and lists
+Strings and lists
 
-- Functions
+Functions
 
-- User input and output
+Random number generation
 
-- Basic problem-solving techniques
+Object-oriented programming
+
+Inheritance
+
+Basic problem-solving
